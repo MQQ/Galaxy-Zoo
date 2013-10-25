@@ -47,7 +47,7 @@ module.exports =
     'sloan-0':
       text: "这个星系是否呈现圆润，光滑且没有盘状结构？"
       title: "形状"
-      help: "这里先要找出那些没有平淡无奇的平滑星系(圆润，光滑且没有悬臂，盘或者环等结构)。如果你看到任何有趣的特征，请点击&quot;有特征或盘&quot;这一选项偶尔，你看到的目标根本不是星系，而是人造卫星经过所留下的长直痕迹，或者被亮星的星光淹没，碰到这种情况，请点击&quot;恒星或人造天体&quot;。点击图片可以放大。"
+      help: "这里先要找出那些没有平淡无奇的平滑星系(圆润，光滑且没有悬臂，盘或者环等结构)。如果你看到任何有趣的特征，请点击&quot;有特征或盘&quot;这一选项。偶尔，你看到的目标根本不是星系，而是人造卫星经过所留下的长直痕迹，或者被亮星的星光淹没，碰到这种情况，请点击&quot;恒星或人造天体&quot;。点击图片可以放大。"
       answers:
         'a-0': '平滑'
         'a-1': '有特征或盘'
@@ -56,8 +56,7 @@ module.exports =
     'sloan-1':
       text: "这个星系看上去像是侧对着看到的图像么？"
       title: "星系的盘"
-      help: "Disc galaxies are very thin, so look different when viewed from the side. We're trying to find exactly edge-on galaxies with this question. If the galaxy looks needle-like, perhaps with a bulge at the centre, then click &quot;yes,&quot; otherwise choose &quot;no&quot; (even for galaxies almost edge-on). Click to see larger images."
-      help: "盘状星系通常很薄，所以不同的角度下会“横看成岭侧成峰”。这个问题中，要找出侧对着我们的星系。如果这个星系看起来像是一根针，中心或许还有突出部分，那么请点击&quot;是&quot;，否则请点击&quot;否&quot;（哪怕星系看起来差不多侧面对着我们，只要不是完全侧对，请选择 否）。点击图片可以放大。"
+      help: "盘状星系通常很薄，所以不同的角度下会“横看成岭侧成峰”。这个问题中，要找出侧对着我们的星系。如果这个星系看起来像是一根针，中心或许还有突出部分（核球），那么请点击&quot;是&quot;，否则请点击&quot;否&quot;（哪怕星系看起来差不多侧面对着我们，只要不是完全侧对，请选择 否）。点击图片可以放大。"
       answers:
         'a-0': '是'
         'a-1': '否'
@@ -79,274 +78,275 @@ module.exports =
         'a-1': '无旋臂'
     
     'sloan-4':
-      text: "How prominent is the central bulge, compared with the rest of the galaxy?"
-      title: "Bulge"
-      help: "It's not always easy to tell, but look at the centre of the galaxy for a round bulge of stars which may obscure any bar and the spiral arms in this central region. Click to see larger images."
+      text: "和星系其它部分相比，中心的核球有多显著？"
+      title: "核球"
+      help: "对于核球，很难一概而论，不过请仔细看星系中心，核球可能会遮蔽住中央的棒状结构和旋臂。点击图片可以放大。"
       answers:
-        'a-0': 'No bulge'
-        'a-1': 'Just noticeable'
-        'a-2': 'Obvious'
-        'a-3': 'Dominant'
+        'a-0': '没有核球'
+        'a-1': '勉强可见'
+        'a-2': '一望即知'
+        'a-3': '异常显著'
     
     'sloan-5':
-      text: "Is there anything odd?"
-      title: "Odd"
-      help: "We're looking for signs that the galaxy is merging, is disturbed, or has other unusual features. Click to see larger images."
+      text: "有什么奇特的地方么？"
+      title: "奇特"
+      help: "我们寻找星系并合、被扰动或其他不同寻常的特征。点击图片可以放大。"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '有'
+        'a-1': '无'
     
     'sloan-6':
-      text: "What are the odd features?"
-      title: "Odd"
+      text: "在什么地方奇特？"
+      title: "奇特"
       help: ""
       answers:
-        'a-0': 'Done'
+        'a-0': '完成'
       checkboxes:
-        'x-0': 'Ring'
-        'x-1': 'Lens or arc'
-        'x-2': 'Disturbed'
-        'x-3': 'Irregular'
-        'x-4': 'Other'
-        'x-5': 'Merger'
-        'x-6': 'Dust lane'
+        'x-0': '环'
+        'x-1': '透镜或圆弧'
+        'x-2': '被扰动'
+        'x-3': '不规则'
+        'x-4': '其他'
+        'x-5': '并合'
+        'x-6': '尘埃带'
     
     'sloan-7':
-      text: "How rounded is it?"
-      title: "Round"
+      text: "这个星系有多园？"
+      title: "圆润"
       help: ""
       answers:
-        'a-0': 'Completely round'
-        'a-1': 'In between'
-        'a-2': 'Cigar shaped'
+        'a-0': '完美的圆形'
+        'a-1': '介于圆形和雪茄形中间'
+        'a-2': '雪茄形'
     
     'sloan-8':
-      text: "Does the galaxy have a bulge at its center? If so, what shape?"
-      title: "Bulge"
-      help: "Concentrate on the centre of the galaxy - if it has a smooth, uninterrupted, needle or lens-shape then click &quot;no bulge.&quot; Otherwise your options are &quot;rounded&quot; bulge or &quot;boxy&quot; (but boxy bulges are rare). Click to see larger images."
+      text: "这个星系中间有突起的核球么？如果有，什么形状？"
+      title: "核球"
+      help: "注意星系中心：如果它有一个光滑、连续的针状或透镜形的成分，请点击&quot;没有核球.&quot; 若没有，则您可以选择 &quot;圆形&quot;核球或者 &quot;方形&quot;（不过方形的核球比较少见）。点击图片可以放大。"
       answers:
-        'a-0': 'Rounded'
-        'a-1': 'Boxy'
-        'a-2': 'No bulge'
+        'a-0': '圆形'
+        'a-1': '方形'
+        'a-2': '没有核球'
     
     'sloan-9':
-      text: "How tightly wound do the spiral arms appear?"
-      title: "Spiral"
+      text: "旋臂看起来由多紧致？"
+      title: "漩涡"
       help: ""
       answers:
-        'a-0': 'Tight'
-        'a-1': 'Medium'
-        'a-2': 'Loose'
+        'a-0': '紧致'
+        'a-1': '适中'
+        'a-2': '宽松'
     
     'sloan-10':
-      text: "How many spiral arms are there?"
-      title: "Spiral"
+      text: "一共有几条旋臂？"
+      title: "漩涡"
       help: ""
       answers:
         'a-0': '1'
         'a-1': '2'
         'a-2': '3'
         'a-3': '4'
-        'a-4': 'More than 4'
-        'a-5': "Can't tell"
+        'a-4': '4条以上'
+        'a-5': "说不清"
     
     'sloan-11':
-      text: "Would you like to discuss this object?"
-      title: "Discuss"
-      help: "If you have any questions about this object, or think it may be interesting to others, or just have something to say, you can start a discussion on Talk by clicking &quot;Yes&quot;. Talk will open in a new window - just close it to come back to the classification page."
+      text: "你想讨论一下这个天体么？"
+      title: "讨论"
+      help: "如果你对这个天体有任何问题，或者你觉得这个天体很有意思，亦或者只是想聊聊这个天体，你可以点击&quot;是&quot;在Talk界面开启一次讨论。Talk界面会在新窗口打开，关掉它就可以回到分类界面。"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '是'
+        'a-1': '否'
     
     'candels-0':
-      text: "Is the galaxy simply smooth and rounded, with no sign of a disk?"
-      title: "Shape"
-      help: "The aim here is to divide featureless galaxies from all the rest. If you can see any interesting features at all, click &quot;features or disk.&quot; Just occasionally you might see something that isn't a galaxy at all - the long streak of a satellite, for example, or a image swamped by light from a bright star. If this happens, just click &quot;star or artifact&quot;. Click to see larger images."
+      text: "这个星系是否呈现圆润，光滑且没有盘状结构？"
+      title: "形状"
+      help: "这里先要找出那些没有平淡无奇的平滑星系(圆润，光滑且没有悬臂，盘或者环等结构)。如果你看到任何有趣的特征，请点击&quot;有特征或盘&quot;这一选项。偶尔，你看到的目标根本不是星系，而是人造卫星经过所留下的长直痕迹，或者被亮星的星光淹没，碰到这种情况，请点击&quot;恒星或人造天体&quot;。点击图片可以放大。"
       answers:
-        'a-0': 'Smooth'
-        'a-1': 'Features or disk'
-        'a-2': 'Star or artifact'
+        'a-0': '平滑'
+        'a-1': '有特征或盘'
+        'a-2': '恒星或人造天体'
     
     'candels-1':
-      text: "How rounded is it?"
-      title: "Round"
-      help: "Not all galaxies are perfectly round - just look at the overall shape and put it in one of these three categories. If there's more than one galaxy in the field, remember always to concentrate on the one in the centre. Click to see larger images."
+      text: "这个星系有多园？"
+      title: "圆润"
+      help: "不是所有的星系都是完美的圆形。看一下大致的形状，归类到列出的三个选项中。如果有多于一个星系出现在图像中，请只关心图像正中的星系。点击图片可以放大。"
       answers:
-        'a-0': 'Completely round'
-        'a-1': 'In between'
-        'a-2': 'Cigar shaped'
+        'a-0': '完美的圆形'
+        'a-1': '介于圆形和雪茄形中间'
+        'a-2': '雪茄形'
     
     'candels-2':
-      text: "Does the galaxy have a mostly clumpy appearance?"
-      title: "Clumps"
-      help: "Some galaxies are nothing but bright clumps. We don't mean those that have other features with a few small clusters of stars, but rather those that are made up mostly of bright clumps. Click to see larger images."
+      text: "这个星系是不是看起来一块一块的亮斑，像打了马赛克一样？"
+      title: "团块"
+      help: "有些星系只不过就是一块块亮斑。这里并不是指那些包含聚集恒星团的星系，而是指那些基本上纯粹由亮斑组成的星系。点击图片可以放大。"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '是'
+        'a-1': '否'
     
     'candels-3':
-      text: "How many clumps are there?"
-      title: "Clumps"
-      help: "Count the clumps! If there are more than 4, than don't worry about it - just click &quot;more than 4.&quot;"
+      text: "一共有几块亮斑？"
+      title: "团块"
+      help: "数亮斑的个数！如果有大于4个，不要担心，只要点击&quot;多于4个。&quot;"
       answers:
         'a-0': '1'
         'a-1': '2'
         'a-2': '3'
         'a-3': '4'
-        'a-4': 'More than 4'
-        'a-5': "Can't tell"
+        'a-4': '多于4个'
+        'a-5': "说不清"
     
     'candels-4':
-      text: "Do the clumps appear in a straight line, a chain, or a cluster?"
-      title: "Clumps"
-      help: "Sometimes the clumps appear in a regular pattern - if so, then click the appropriate symbol."
+      text: "这些亮斑看起来是什么样子的？直线，一条链，还是聚成一团？"
+      title: "团块"
+      help: "有时候团块看起来会有一些规则的样式，如果是这样，请参照对应的符号点击。"
       answers:
-        'a-0': 'Straight Line'
-        'a-1': 'Chain'
-        'a-2': 'Cluster / Irregular'
-        'a-3': 'Spiral'
+        'a-0': '直线'
+        'a-1': '链状'
+        'a-2': '聚团/不规则'
+        'a-3': '漩涡状'
     
     'candels-5':
-      text: "Is there one clump which is clearly brighter than the others?"
-      title: "Clumps"
-      help: "Sometimes one clump dominates the scene. If so, click yes, otherwise, no."
+      text: "有没有一个团块明显比别的要亮的多？"
+      title: "团块"
+      help: "有时候有一个亮斑会主宰整个图片。如果是这种情况，请点击 是 ，否则点击 否。"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '是'
+        'a-1': '否'
     
     'candels-6':
-      text: "Is the brightest clump central to the galaxy?"
-      title: "Clumps"
-      help: "For very clumpy galaxies it may be difficult to tell, but make your best guess whether that brightest clump lies at the centre of the system or not."
+      text: "最亮的团块是否处于星系中央？"
+      title: "团块"
+      help: "对于这种有很多团块的星系，这也许很难分辨，不过请努力判断最亮的团块是否处于这个系统的正中。"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '是'
+        'a-1': '否'
     
     'candels-7':
-      text: "Does the galaxy appear symmetrical?"
-      title: "Symmetry"
-      help: "Are both halves of the galaxy the same? Or is one side disrupted or different in some way?"
+      text: "这个星系看起来是否对称？"
+      title: "对称"
+      help: "星系的两半看起来是否一样？还是说有一面被扰动或有一些不一样？"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '是'
+        'a-1': '否'
     
     'candels-8':
-      text: "Do the clumps appear to be embedded within a larger object?"
-      title: "Clumps"
-      help: "Look carefully for faint background light surrounding the clumps - are they embedded in a visible galaxy?"
+      text: "这些团块看起来是不是嵌于更大的物体中？"
+      title: "团块"
+      help: "仔细看团块周围暗弱的背景光，判断团块是否处于一个可见的星系中？"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '是'
+        'a-1': '否'
     
     'candels-9':
-      text: "Could this be a disk viewed edge-on?"
-      title: "Disk"
-      help: "Disc galaxies are very thin, so look different when viewed from the side. We're trying to find exactly edge-on galaxies with this question. If the galaxy looks needle-like, perhaps with a bulge at the centre, then click &quot;yes,&quot; otherwise choose &quot;no&quot; (even for galaxies almost edge-on). Click to see larger images."
+      text: "这个星系看上去像是侧对着看到的图像么？"
+      title: "星系的盘"
+      help: "盘状星系通常很薄，所以不同的角度下会“横看成岭侧成峰”。这个问题中，要找出侧对着我们的星系。如果这个星系看起来像是一根针，中心或许还有突出部分（核球），那么请点击&quot;是&quot;，否则请点击&quot;否&quot;（哪怕星系看起来差不多侧面对着我们，只要不是完全侧对，请选择 否）。点击图片可以放大。"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '是'
+        'a-1': '否'
     
     'candels-10':
-      text: "Does the galaxy have a bulge at its centre?"
-      title: "Bulge"
-      help: "Look at the centre of the galaxy - is there any sign of a bulge of stars sticking out above and below the otherwise smooth shape? If so, click yes."
+      text: "这个星系中间有突起的核球么？"
+      title: "核球"
+      help: "注意星系中心：在其他地方平滑的背景上下是否有一块突出的核球？如果有，请点击是。"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '是'
+        'a-1': '否'
     
     'candels-11':
-      text: "Is there any sign of a bar feature through the centre of the galaxy?"
-      title: "Bar"
-      help: "Sometimes galaxies have a prominent straight &quot;bar&quot; running through their centre, and that's what we're looking for here. Click to see larger images."
+      text: "在星系中心是否有棒状结构？"
+      title: "棒状结构"
+      help: "有时，显著的&quot;棒状结构&quot;会穿过星系中心，这一步就是要寻找这种结构。点击图片可以放大。"
       answers:
-        'a-0': 'Bar'
-        'a-1': 'No bar'
+        'a-0': '有棒状结构'
+        'a-1': '没有棒状结构'
     
     'candels-12':
-      text: "Is there any sign of a spiral arm pattern?"
-      title: "Spiral"
-      help: "Look carefully for spiral arms - remember they may be embedded in the disk and not that easy to see. Click to see larger images."
+      text: "是否有旋臂的迹象？"
+      title: "旋涡星系"
+      help: "仔细寻找旋臂——记住他们可能藏在星系盘中而不易被人发觉。点击图片可以这大。"
       answers:
-        'a-0': 'Spiral'
-        'a-1': 'No spiral'
+        'a-0': '有旋臂'
+        'a-1': '无旋臂'
     
     'candels-13':
-      text: "How tightly wound do the spiral arms appear?"
-      title: "Spiral"
-      help: "Astronomers classify galaxies by how tight their arms are - you might find it easiest to see closest to the centre. Click to see larger images."
+      text: "旋臂看起来有多紧致？"
+      title: "漩涡"
+      help: "天文学家通过漩涡星系旋臂的紧致程度来为其分类。一般来说，越往中心看越容易分辨。点击图片可以放大。"
       answers:
-        'a-0': 'Tight'
-        'a-1': 'Medium'
-        'a-2': 'Loose'
+        'a-0': '紧致'
+        'a-1': '适中'
+        'a-2': '宽松'
     
     'candels-14':
-      text: "How many spiral arms are there?"
-      title: "Spiral"
-      help: "Some spiral galaxies are rather complicated, so don't be afraid to use the &quot;more than 4&quot; or &quot;can't tell&quot; buttons here."
+      text: "一共有几条旋臂？"
+      title: "漩涡"
+      help: "有些漩涡星系非常复杂，看到这样的星系请大胆的选择&quot;4条以上&quot;，或者&quot;说不清&quot;"
       answers:
         'a-0': '1'
         'a-1': '2'
         'a-2': '3'
         'a-3': '4'
-        'a-4': 'More than 4'
-        'a-5': "Can't tell"
+        'a-4': '4条以上'
+        'a-5': "说不清"
     
     'candels-15':
-      text: "How prominent is the central bulge, compared with the rest of the galaxy?"
-      title: "Bulge"
-      help: "It's not always easy to tell, but look at the centre of the galaxy for a round bulge of stars which may obscure any bar and the spiral arms in this central region. Click to see larger images."
+      text: "和星系其它部分相比，中心的核球有多显著？"
+      title: "核球"
+      help: "对于核球，很难一概而论，不过请仔细看星系中心，核球可能会遮蔽住中央的棒状结构和旋臂。点击图片可以放大。"
       answers:
-        'a-0': 'No bulge'
-        'a-1': 'Obvious'
-        'a-2': 'Dominant'
+        'a-0': '没有核球'
+        'a-1': '一望即知'
+        'a-2': '异常显著'
     
     'candels-16':
-      text: "Is the galaxy currently merging or is there any sign of tidal debris?"
-      title: "Merger"
-      help: "Now you can look at the larger picture - if the galaxy is colliding with another, click &quot;merger.&quot; If there's no visible second system, but long streams of stars or gas are visible then click &quot;tidal debris.&quot; &quot;Both&quot; and &quot;Neither&quot; are your other options. Click to see larger images."
+      text: "这个星系是否处于并合状态？或者你是否能看到由引潮力引起的拖出的残片？"
+      title: "并合"
+      help: "请看放大的图片——如果这个星系正在和另一个星系碰撞，请点击&quot;并合。&quot; 如果没有这样明显的第二个星系，但是依然可以看到一长条拖出的恒星或者气体，请点击&quot;潮汐残片。&quot; 你也可以选择&quot;两者皆有&quot; 和&quot;两者皆无&quot;。点击放大图片"
       answers:
-        'a-0': 'Merging'
-        'a-1': 'Tidal debris'
-        'a-2': 'Both'
-        'a-3': 'Neither'
+        'a-0': '并合'
+        'a-1': '潮汐残片'
+        'a-2': '两者皆有'
+        'a-3': '两者皆无'
     
     'candels-17':
-      text: "Would you like to discuss this object?"
-      title: "Discuss"
-      help: "If you have any questions about this object, or think it may be interesting to others, or just have something to say, you can start a discussion on Talk by clicking &quot;Yes&quot;. Talk will open in a new window - just close it to come back to the classification page."
+      text: "你想讨论一下这个天体么？"
+      title: "讨论"
+      help: "如果你对这个天体有任何问题，或者你觉得这个天体很有意思，亦或者只是想聊聊这个天体，你可以点击&quot;是&quot;在Talk界面开启一次讨论。Talk界面会在新窗口打开，关掉它就可以回到分类界面。"
       answers:
-        'a-0': 'Yes'
-        'a-1': 'No'
+        'a-0': '是'
+        'a-1': '否'
   
   quiz_questions:
     set_1:
       question_0:
-        text: 'Where are elliptical galaxies more common?'
-        answer_0: 'inside clusters of galaxies'
-        answer_1: 'outside clusters of galaxies'
-        answer_2: 'they are equally prevalent everywhere'
+        text: '椭圆形系在哪里更常见？'
+        answer_0: '在星系团中'
+        answer_1: '在星系团外'
+        answer_2: '哪里都一样'
       
       question_1:
-        text: 'Star A is a red main sequence star and Star B is a blue main sequence star. Which will have a longer lifetime?'
-        answer_0: 'Star A'
-        answer_1: 'Star B'
-        answer_2: 'They will have the same lifetime.'
-        answer_3: 'There is insufficient information to determine this.'
+        text: '甲兴是一颗红色的主序星，乙星是一颗蓝色的主序星。请问哪个寿命更长？'
+        answer_0: '甲星'
+        answer_1: '乙星'
+        answer_2: '它们有相同的寿命'
+        answer_3: '信息不够，无法判断'
       
       question_2:
-        text: 'How does the Sun produce the energy that heats our planet?'
-        answer_0: 'The gases inside our Sun are burning and producing energy.'
-        answer_1: 'Atoms are combined into heavier atoms, giving off energy.'
-        answer_2: 'Gas inside the Sun heats up when compressed, giving off energy.'
-        answer_3: 'Atoms are broken apart into lighter atoms, giving off energy.'
-        answer_4: 'The core of the Sun has radioactive atoms that decay, giving off energy.'
+        text: '我们的地球从太阳接受能量，而太阳的能量又是如何产生的呢？'
+        answer_0: '太阳内部的气体在燃烧产生能量'
+        answer_1: '原子聚集在一起形成更重的原子，产生能量'
+        answer_2: '太阳内部的气体被压缩时产热，释放能量'
+        answer_3: '原子被分裂成更轻的原子，释放能量'
+        answer_4: '太阳的内核有放射性的原子时刻衰变，产生能量'
       
       question_3:
         text: 'The diagram represents three different waves of light emitted at the same time by the Sun. Which wave will arrive first at a satellite orbiting just above Earth’s atmosphere?'
-        answer_0: 'Wave 1'
-        answer_1: 'Wave 2'
-        answer_2: 'Wave 3'
-        answer_3: 'All three waves arrive at the same time.'
+        text: '图中显示了三种同时自太阳发出的光波。哪种波会最先到达处于地球大气之上的人造卫星？'
+        answer_0: '第一种波'
+        answer_1: '第二种波'
+        answer_2: '第三种波'
+        answer_3: '三种波同时到达'
       
       question_4:
         text: 'A galaxy that appears to have very few bright, blue stars, likely:'
