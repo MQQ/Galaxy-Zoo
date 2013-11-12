@@ -723,32 +723,33 @@
     },
     "science": {
         "title": "星系动物园网站的科学意义",
-        "p1": "在可观测宇宙中散布着约一千亿个星系，每个光芒闪耀的星系又都自成一个系统，拥有著数十亿恒星。许多星系都极其美丽，「星系动物园」的目标就是去研究这些星系，协助天文学者试著去了解我们所看到的这些环绕在我们四周的星系如何形成，从这些星系的故事我们又可以知道自己所置身其中的宇宙的过去、现在和未来。",
-        "p2": "我们的研究策略基于一个非常显著的事实，也就是，仅从星系形状就可得知星系的许多信息。比方说，当你发现的是旋臂星系，通常（非百分之百）你立刻就知道这个星系拥有由恒星、气体、尘埃组成的一个旋转盘面，这个盘面拥有大量燃料，未来将孕育更多新恒星。而如果你找到的是由一大团的恒星组成的椭圆星系，那么，这个星系可能已进入成熟期，形成恒星的过程早已完成。我们还可以挖掘出星系的往事，譬如椭圆星系，其前身可能是两个较小星系发生过迎面对撞；有些带有小疤痕，譬如呈扭曲状的盘、大而凸起的核球、尾巴长长的恒星流，诸如此类的特征，都是星系生命历经复杂故事的最佳见证。",
+        "p1": "在可观测宇宙中散布着约一千亿个星系，每个光芒闪耀的星系又都自成一个系统，拥有着数十亿的恒星。许多星系都极其美丽，“星系动物园”的目标就是去研究四周这些为我们所见的星系，协助天文学者去试着理解这些星系是如何形成的，从这些星系的故事来了解我们所置身其中的宇宙的过去、现在和未来。",
+        "p2": "我们的研究策略基于一个非常显著的事实，也就是，仅从星系的形状即可得知星系的许多信息。比方说，当你发现的是旋臂星系，通常（非百分之百）你立刻就知道这个星系拥有由恒星、气体和尘埃组成的一个旋转盘面，这个盘面拥有大量燃料，未来将孕育更多新恒星。而如果你找到的是由一大团的恒星组成的椭圆星系，那么，这个星系可能已进入成熟期，形成恒星的过程早已完成。我们还可以挖掘出星系的往事，譬如椭圆星系可能是早前由两个小星系迎面对撞而产生的；有些星系带有小疤痕，譬如呈扭曲状的盘、大而凸起的核球、尾巴长长的恒星流，诸如此类的特征，都是星系生命历经复杂故事的最佳见证。",
         "p3": "如前所述，星系并合对其外观影响至巨，但还有其他许多因素也可能发挥重要作用。例如，越来越多的证据显示，潜伏在星系中心的黑洞对周围环境就可能产生深远影响。",
-        "p4": "物质朝黑洞下落的过程中会被加热至极高温度，并导致强大的辐射，有时会有强大的物质喷流从黑洞邻近区域以近光速的速度向外甩出（喷流不是从黑洞本身喷出，而是黑洞附近区域）。这些力在彼此相结合之下，能将星系的气体加热，或把气体从星系裡排出，将星系中原本可用来制造新恒星的原料搜刮一空，大幅改变星系原本面貌。",
-        "p5": "星系所在位置的周围条件如何也很重要。在距离银河系最近的大星系团——室女座星系团——的中心，星系并合是少见的，因為星系团强大的引力使得星系移动太快，只来得及短暂擦身而过。而在太空中最空旷之处，星系密度又太低，在那里星系并合也不显著。唯有在星系团的外围区域，或者像我们银河系所属的本星系群这样的小星系群中，星系并合才比较显著。因此，特性不同星系出现在不同的环境中应该毫不奇怪，而且是必须要纳入考量的。",
-        "p6": "要理清种种诸如此类的影响因素，我们需要尽可能大的星系分类样本。比如，我们很可能需要大量位于星系团边缘的红色棒旋星系，但如果我们的初始样本不够大，那下一步将没有筛选的余地，接下来的研究也就捉襟见肘。现代巡天普查提供了足够多的图像——数以十万计的星系图像，但这些星系图像需要有人力来加以分类。这就是我们要邀请您来帮忙贡献您的好眼力的原因……",
+        "p4": "物质朝黑洞下落的过程中会被加热至极高温度，并产生强大的辐射，有时会有强大的物质喷流从黑洞邻近区域以近光速的速度向外甩出（喷流不是从黑洞本身喷出的，而是从黑洞附近的区域）。这些力量结合起来，能将星系的气体加热，或把气体从星系里排出，将星系中原本可用来制造新恒星的原料搜刮一空，大幅改变星系的面貌。",
+        "p5": "星系周围的环境条件如何也很重要。在距离银河系最近的大星系团——室女座星系团——的中心，星系并合是少见的，因为星系团内部强大的引力使得星系移动得太快，只来得及短暂擦身而过。而在太空中最空旷之处，星系密度又太低，在那里星系并合也不多见。唯有在星系团的外围区域，或者在像我们银河系所属的本星系群这样的小星系群中，星系并合才比较显著。因此，不同特征的星系出现在不同的环境中应该毫不奇怪，而且是必须要纳入考量的因素。",
+        "p6": "要理清种种诸如此类的影响因素，我们需要尽可能大的星系分类样本。比如，我们很可能需要大量位于星系团边缘的红色棒旋星系，但如果我们的初始样本不够大，那下一步将没有筛选的余地，接下来的研究也就捉襟见肘。现代巡天项目提供了足够多的图像——数以十万计的星系图像，但这些星系图像需要有人力来加以分类。这就是为什么我们要邀请您来帮忙贡献您的好眼力……",
         "subtitle": "这些图像来自何处？",
-        "p7": "从2000年开始的斯隆数字化巡天（简称为SDSS）为天文学家提供了最早的同时也是最大的宇宙数字地图之一。最初的巡天计划为期5年，包括两部分主要仪器，其一为126万像素的相机，其二是两台光纤导入的光谱仪。这些仪器装置在位于美国新墨西哥州阿帕奇点天文台里的一座SDSS专用2.5米望远镜上。天气好时，SDSS用相机对北天进行扫描成像；在多云时，SDSS对一部分选定的观测对象采集光谱，从光谱方面来测量红移及其距离。2005年到2008年SDSS进入第二阶段，除了继续对银河系北银冠进行巡天，又开启了一个超新星巡天项目，以及一个恒星光谱巡天项目（SEGUE）。2008年迄今，SDSS已进入第三期，目前专注于光谱巡天工作，包括四个子项目：BOSS、APOGEE、SEGUE、MARVELS。（在进入本阶段时，SDSS相机已退役，收藏于美国史密松博物馆）",
-        "p8": "SDSS缔造出了丰硕的科学成果，部分原因是SDSS的数据每年都公开发布给天文学界和公众使用。2011年所发布的第八版资料库（DR8）所含的光学影像数据广达14,555平方度，总像素数超过一万亿，共含有9.32亿个天体，这其中的163万个已由SDSS取得其光谱。这么了不起的天文资源，全都可从最先进的在线数据库里免费取得。天文学家运用SDSS的公开数据撰写学术论文的速度几乎是每天一篇，目前已产出超过4000篇的天文学术论文，获引用次数累积达17.5万。在SDSS的合作单位内，已经诞生了超过120篇博士论文。同时SDSS在科普方面也是硕果累累，比如本网站星系动物园计划即是公众科普推广领域的成果之一。SDSS多次在天文学领域最具影响力的项目或机构选拔中获得提名（参考文献，Madrid & Macchetto 2006, 2009）。在2000、2002、2005、2008年度获引用次数最高的论文使用的都是SDSS数据（参考文献, Frogel et al. 2010）。",
-        "p9": "SDSS的成就是许多科学家，研究人员和天文学家所共有的，没有大家的集体合作就不可能会有SDSS。许多一开始参与SDSS项目的天文学家，如今散布全球各地，继续在大型合作项目中从事学术研究，流传分享着SDSS的经验。SDSS刚开始的时候，规模如此庞大的合作在天文学中还属罕见。SDSS首开风气之先，创新改变了天体物理学的合作研究文化。从2014年开始，SDSS即将迈入它的另一个新阶段：第四期。此阶段将进行的是好几个有针对性的巡天项目，包括eBOSS、MaNGA、APOGEE-S2等，其目标除了要探索遥远的宇宙，了解邻近星系的动力学以外，同时也将研究本银河系里的恒星。到第四期结束之际，SDSS将累计为天文学界提供优质数据超过20年之久，最终天体光谱数据将会超过5百万条。",
+        "p7": "从2000年开始的斯隆数字化巡天（简称为SDSS）为天文学家提供了最早的同时也是最大的宇宙数字地图之一。最初的巡天计划为期5年，包括两部分主要仪器，其一为126万像素的相机，其二是两台光纤导入的光谱仪。这些仪器装置在位于美国新墨西哥州阿帕奇点天文台里的一座SDSS专用2.5米望远镜上。天气好时，SDSS用相机对北天进行扫描成像；在多云时，SDSS对一部分选定的观测对象采集光谱，由光谱来测量天体的红移及其距离。2005年到2008年是SDSS的第二阶段，除了继续对银河系北银冠进行巡天，又开启了一个超新星巡天项目，以及一个恒星光谱巡天项目（SEGUE）。2008年迄今，SDSS已进入第三期，目前专注于光谱巡天工作，包括四个子项目：BOSS、APOGEE、SEGUE、MARVELS。（在进入本阶段时，SDSS相机已退役，收藏于美国史密松博物馆）",
+        "p8": "SDSS缔造出了丰硕的科学成果，部分原因是SDSS的数据每年都公开发布给天文学界和公众使用。2011年所发布的第八版资料库（DR8）所包含的光学影像数据广达14,555平方度，总像素数超过一万亿，共含有9.32亿个天体，这其中的163万个天体已由SDSS取得了光谱。这么了不起的天文资源，全都可从最先进的在线数据库里免费取得。天文学家运用SDSS的公开数据撰写学术论文的速度几乎是每天一篇，目前已产出超过4000篇天文学术论文，获引用次数累积达17.5万。在SDSS的合作单位内，已经诞生了超过120篇博士论文。同时SDSS在科普方面也是硕果累累，比如本网站星系动物园计划即是公众科普推广领域的成果之一。SDSS多次在天文学领域最具影响力的项目或机构选拔中获得提名（参考文献，Madrid & Macchetto 2006, 2009）。在2000、2002、2005、2008年度获引用次数最高的天文学论文使用的都是SDSS数据（参考文献, Frogel et al. 2010）。",
+        "p9": "SDSS的成就是许多科学家，研究人员和天文学家所共有的，没有大家的集体合作就不可能会有SDSS。许多一开始参与SDSS项目的天文学家，如今散布全球各地，继续在大型合作项目中从事学术研究，流传分享着SDSS的经验。SDSS刚开始的时候，规模如此庞大的合作在天文学中还属罕见。SDSS首开风气之先，创新改变了天体物理学的合作研究文化。从2014年开始，SDSS即将迈入它的另一个新阶段：第四期。此阶段将进行的是好几个有针对性的巡天项目，包括eBOSS、MaNGA、APOGEE-S2等，其目标除了要探索遥远的宇宙，了解邻近星系的动力学以外，同时也将研究银河系里的恒星。到第四期结束之际，SDSS将累计为天文学界提供优质数据超过20年之久，最终天体光谱数据将会超过5百万条。",
         "p10": "凝视宇宙深处，我们得以回顾宇宙的过去。由于宇宙持续膨胀，所见的星系远离我们的速度也正变得越来越快。这意味着，光在离开星系并抵达我们之前，其波长会被不断拉长。光既然会被“红移”，那么如果想要得到一个早期宇宙中的星系在可见光波段中的图像，我们所需要的其实是红外照相机。由于种种原因红外图像比可见光图像更难取得，其中最重要的一点是，实际上夜空本身是发出红外光的。这根本性地限制了我们拍摄深空红外影像的能力。而哈勃望远镜的第三代大视场照相机（WFC3）却能突破这些限制、具备了可取得红外图像的能力，所以贡献非凡。",
-        "p11": "配备了WFC3的巡天项目给了我们一个全新的视野，让我们能看到大爆炸以后三、四十亿年里的宇宙，即大约宇宙年龄的前三分之一部分。其中最重要的CANDELS（Cosmic Assembly Deep Extragalactic Near-infrared Survey），是一个近红外线波段的巡天。作为迄今使用哈勃太空望远镜进行的最大的巡天项目，CANDELS正对多片天区进行巡天，以整合出一套最大的早期宇宙中的星系的深空红外图集。星系动物园计划与CANDELS的结合，提供了一个非常好的工具，让我们得以了解可观测宇宙的演化过程中的最早阶段，这是当今观测宇宙学中亟待解决的重要问题之一。"
+        "p11": "配备了WFC3的巡天项目给了我们一个全新的视野，让我们能看到大爆炸以后三、四十亿年里的宇宙，即大约宇宙年龄的前三分之一部分。其中最重要的CANDELS（Cosmic Assembly Deep Extragalactic Near-infrared Survey），是一个近红外波段的巡天。作为迄今使用哈勃太空望远镜进行的最大的巡天项目，CANDELS正对多片天区进行巡天，以整合出一套最大的针对早期宇宙中的星系的深空红外图集。星系动物园计划与CANDELS的结合，提供了一个非常好的工具，让我们得以了解可观测宇宙的演化过程中的最早阶段，这是当今观测宇宙学中亟待解决的重要问题之一。"
     },
     "story": {
         "title": "现状",
-        "p1": "「星系动物园」计划从2007年7月启动以来，网站已历经四次更新。建立之初所使用的数据是由斯隆数字化巡天（SDSS）所提供的约一百万个星系图像，SDSS迄今仍为我们提供着新数据。面对如此庞大的星系数量，我们本以为要花上好几年时间才能把数据分类工作全部完成。没想到网站开张不到24小时就以每小时收到7万笔分类的速度一路蓬勃成长，第一年里共获得了超过五千万笔星系分类结果，参与的志愿者人数超过15万人。",
-        "p2": "这意味者每个星系都获得了好几位不同的参与者的分类，这是经过刻意安排的。多次、独立地对同一个星系进行分类很重要，因为这能告诉我们分类结果的可靠度有多高。例如，有些研究项目只需几千个星系就可，但必须很确定它们全都是螺旋星系，那么这些项目就可以采用那些100％被分类为螺旋星系的天体。对另一些项目，我们可能需要几十万的星系，这时可以使用「多数」分类意见同意其为螺旋星系的天体。",
-        "p3": "第一代星系动物园的任务比今天这一版的任务略为简单，当时我们只要求志愿者将星系按椭圆，并合、螺旋等三类加以区分，如果星系呈螺旋状，则记录一下旋臂的方向。任务虽然简单，但已足以显示星系动物园得到的分类结果与专业天文学家的星系分类结果并无差异，这些结果也开始被很多研究人员采用。前往<a href=\"#/papers\" data-nav=\"/papers\">已出版论文</a>和<a href=\"http://blog.galaxyzoo.org\" target=\"_blank\">星系动物园博客</a>两个链接，便可看到藉由星系动物园所提供的数据，已有哪些论文发表。更令人兴奋的是，星系动物园里的种种发现吸引了一些世界上最大的望远镜，愿意做进一步的跟踪观测，这代表相当的肯定。这些望远镜包括：位于西班牙Canaries群岛La Palma岛上的Isaac Newton、William Herschel望远镜，在南半球智利的Gemini南天望远镜，美国Arizona州基特峰上的WIYN望远镜，西班牙Sierra Nevada地区的IRAM电波望远镜，以及Swift、GALEX,、钱卓(Chandra)、XMM-Newton和Suzaku 等太空望远镜，以及广为知名的哈勃太空望远镜。",
+        "p1": "“星系动物园”计划从2007年7月启动以来，网站已历经四次更新。建立之初所使用的数据是由斯隆数字化巡天（SDSS）所提供的约一百万个星系图像，SDSS迄今仍为我们提供着新数据。面对如此庞大的星系数量，我们本以为要花上好几年时间才能把数据分类工作全部完成。没想到网站开张不到24小时就以每小时收到7万笔分类的速度一路蓬勃成长，第一年里共获得了超过五千万笔星系分类结果，参与的志愿者人数超过15万人。",
+        "p2": "这意味者每个星系都获得了好几位不同的参与者的分类，这是经过刻意安排的。多次、独立地对同一个星系进行分类很重要，因为这能告诉我们分类结果的可靠度有多高。例如，有些研究项目只需几千个星系，但必须很确定它们全都是螺旋星系，那么这些项目就可以采用那些100％被分类为螺旋星系的天体。对另一些项目，我们可能需要几十万的星系，这时便可使用“多数”分类意见同意其为螺旋星系的天体。",
+        "p3": "第一代星系动物园的任务比今天这一版的任务略为简单，当时我们只要求志愿者将星系按椭圆、并合、螺旋等三类加以区分，如果星系呈螺旋状，则记录一下旋臂的方向。任务虽然简单，但已足以显示星系动物园得到的分类结果与专业天文学家的星系分类结果并无差异，这些结果也开始被很多研究人员采用。前往<a href=\"#/papers\" data-nav=\"/papers\">已出版论文</a>和<a href=\"http://blog.galaxyzoo.org\" target=\"_blank\">星系动物园博客</a>两个链接，便可看到藉由星系动物园所提供的数据，已有哪些论文发表。更令人兴奋的是，星系动物园里的种种发现吸引了一些世界上最大的望远镜，愿意做进一步的跟踪观测，这代表了相当的肯定。这些望远镜包括：位于西班牙Canaries群岛La Palma岛上的Isaac Newton、William Herschel望远镜，在南半球智利的Gemini南天望远镜，美国Arizona州基特峰上的WIYN望远镜，西班牙Sierra Nevada地区的IRAM电波望远镜，以及Swift、GALEX,、钱卓(Chandra)、XMM-Newton和Suzaku 等太空望远镜，以及广为知名的哈勃太空望远镜。",
         "p4": "第二代星系动物园的改版动力，源自于我们对志愿者的能力更加有信心了。从第二版开始，我们要求志愿者在参与分类时，必须更仔细地看20多万个SDSS数据库中最亮的星系，并请求志愿者来回答关于星系旋臂的数量、星系中心核球的大小，以及其他许多问题。这次的结果依旧让人非常感动！仅仅14个月内，我们就收到了超过6,000万笔的分类结果。",
-        "p5": "这段时间当中，我们陆续密集地在一个长条状，称為”Stripe 82”的区域裡增添了许多详尽图像，不过很快地，我们也动身前往探勘更遥远的宇宙，也就是网站第三代！第三代的星系动物园吸收了一张大补帖，多增加了许多来自哈柏太空望远镜的图像资料，这样能看到星系刚形成时的更早期宇宙。这些图像来自於耗费较多宝贵观测时间的星系普查，能让我们可看到来自数十亿年前星系发出的光。星系动物园认為，哈柏望远镜能将星系的过去和现在加以比较，这样就能清楚了解星系的合併、活跃的黑洞或单单只有恒星形成，究竟星系成长是受到其中哪些因素的影响。",
-        "p6": "最新一代的「星系动物园」结合了新的SDSS巡天图像和CANDELS巡天数据。SDSS为我们提供了邻近宇宙的最佳影像，而CANDELS则向我们展示了遥远宇宙的景象。CANDELS使用哈勃太空望远镜上新装设的第三代大视场相机（WFC3）来拍摄宇宙的超深空影像。到底星空中有什么新奇的事情等你去发现呢？拭目以待！"
+        "p5": 
+"随着时间的推移，我们也增添了许多来自于一个称为”Stripe 82”的区域里详尽图像。不过很快地，我们也动身前往探勘更遥远的宇宙，也就是网站的第三代！第三代的星系动物园的很多数据来源于哈勃太空望远镜所开展的巡天项目，用于了解星系形成的早期景象。这些耗费了大量宝贵观测时间的巡天项目，能让我们看到数十亿年前的星系所发出的光。星系动物园认为，将过去的星系和现在的星系加以比较，就能清楚了解星系的成长到底受哪些因素的影响，是星系的并合、活跃的黑洞、或仅仅是恒星形成？",
+        "p6": "最新一代的“星系动物园”结合了新的SDSS巡天图像和CANDELS巡天数据。SDSS为我们提供了邻近宇宙的最佳影像，而CANDELS则向我们展示了遥远宇宙的景象。CANDELS使用哈勃太空望远镜上新装设的第三代大视场相机（WFC3）来拍摄宇宙的超深空影像。到底星空中有什么新奇的事情等你去发现呢？拭目以待！"
     },
     "team": {
-        "title": "團隊成員介紹",
+        "title": "团队成员介绍",
         "science": {
-            "title": "Science Team",
+            "title": "科学团队",
             "bamford": "<span class=\"person\">Steven Bamford</span> - Astronomer, University of Nottingham<br />Works on figuring out what makes galaxies look the way they do: how they formed and why they change as they get older and move to new cosmic locations.  When not busy working on science or doing his bit to help run the Zooniverse, he is usually to be found entertaining his two young children or sailing a boat.",
             "lintott": "<span class=\"person\">Chris Lintott</span> - Astronomer, University of Oxford<br />Between Galaxy Zoo, co-presenting the BBC's Sky at Night program and writing for <a href=\"http://www.chrislintott.net\">www.chrislintott.net</a> and elsewhere, Chris usually wishes he had more time to sleep.",
             "schawinski": "<span class=\"person\">Kevin Schawinski</span> - Astronomer, <a href=\"http://www.astro.ethz.ch\" target=\"_blank\">ETH Zurich</a><br />Works on the formation and evolution of galaxies and their supermassive black holes. Usually trying to get more sleep. And coffee.",
@@ -771,7 +772,7 @@
             "wong": "<span class=\"person\">Ivy Wong</span> - Astronomer, CSIRO"
         },
         "dev": {
-            "title": "Zooniverse Development Team",
+            "title": "Zooniverse开发团队",
             "kapadia": "<span class=\"person\">Amit Kapadia</span><br />Amit Kapadia develops astronomical web applications. He is a citizen science developer for the crowd-sourcing based platform Zooniverse. New to the world of JavaScript he spends his days dreaming of conducting in-browser analyses on astronomical data sets. On occasion he flexes his modest sway to advocate for more modern solutions to data access in astronomy. He believes the scientific world needs to speak more closely with the tech world, and constantly strives to learn more from the latter. Amit is often found at the Adler Planetarium in Chicago.",
             "carstensen": "<span class=\"person\">Brian Carstensen</span><br />Brian is a web developer working on the Zooniverse family of projects at the Adler Planearium. Brian has a degree in graphic design from Columbia College in Chicago, and worked in that field for a number of years before finding a niche in web development.",
             "miller": "<span class=\"person\">David Miller</span><br />As a visual communicator, David is passionate about tellings stories through clear, clean, and effective design. Before joining the Zooniverse team as Visual Designer, David worked for The Raindance Film Festival, the News 21 Initiative's Apart From War, Syracuse Magazine, and as a freelance designer for his small business, Miller Visual. David is a graduate of the S.I. Newhouse School of Public Communications at Syracuse University, where he studied Visual & Interactive Communications.",
@@ -782,23 +783,23 @@
             "whyte": "<span class=\"person\">Laura Whyte</span><br />Having spent her PhD trying to get computers to classify galaxies, Laura know only to well the true value of the contribution to science made by the Galaxy Zoo volunteers. Since leaving astronomy she has retrained as a Maths teacher and picked up a few programming skills. It was with great delight she joined the team at the Zooniverse, developing online education and research tools, allowing her to use bits and pieces of all the skills she's picked up over the last decade."
         },
         "czech": {
-            "title": "Galaxy Zoo Czech Support Team",
+            "title": "星系动物园捷克支持团队",
             "vykouril": "<span class=\"person\">Dušan Vykouřil</span><br />Initiator, and coordinator Czech Galaxy Zoo. He thinks that line of the universe is never-ending. He like pushes the limits of the unknown.",
             "moudra": "<span class=\"person\">Míla Moudrá</span><br />Main Czech Galaxy Zoo translator. Student from Prague, Czech republic, and amateur astronomer, especially deep-sky objects (i.e. galaxies, among others) visual observer. Interested in protection of environment and small rodents :-)",
             "hresil": "<span class=\"person\">Petr Hřešil</span><br />Czech Galaxy Zoo co-translator. He has always been fascinated by the sky and the universe but he got trapped into the IT world and fell into the clutches of the Internet. Fan of Distributed computing, lover of sci-fi which allows him to set out \"Where No One Has Gone Before\".",
             "miksovsky": "<span class=\"person\">Jaroslav Mikšovský</span><br />Czech Galaxy Zoo corrector. Pensioner still economically active."
         },
         "french": {
-            "title": "Galaxy Zoo France Support Team",
+            "title": "星系动物园法国支持团队",
             "marco": "<span class=\"person\">Olivier Marco</span> - Observatoire de Paris"
         },
         "german": {
-            "title": "Galaxy Zoo Germany Support Team",
+            "title": "星系动物园德国支持团队",
             "poessel": "<span class=\"person\">Markus Poessel</span> - Center for Astronomy Education and Outreach, Heidelberg<br />German Galaxy Zoo co-translator. Managing scientist of the Center for Astronomy Education and Outreach in Heidelberg, whose galaxy-shaped building has a disk, is not clumpy, can be viewed edge-on, has two spiral arms that are medium-tightly wound, and an obvious bulge. (And please tell him if you notice anything odd.).",
             "leifke": "<span class=\"person\">Carolin Leifke</span> - Center for Astronomy Education and Outreach, Heidelberg<br />German Galaxy Zoo co-translator. Observes flares on active stars with X-ray satellites and the VLT, and galaxies of all kind with her 16-inch Dobsonian. Has now turned her passion for astronomy education and outreach into a profession."
         },
         "polish": {
-            "title": "Galaxy Zoo Poland Support Team",
+            "title": "星系动物园波兰支持团队",
             "biernacki": "<span class=\"person\">Paweł Biernacki</span><br />Student of astronomy at Wrocław University, enthusiast of the Sun, addicted to sci-fi books; upbeaten optimist and fan of soccer.",
             "czart": "<span class=\"person\">Krzysztof Czart</span><br />An astronomer and PhD student in a city where Nicolaus Copernicus was born, investigating the biggest stars in galaxies (those from Earth, too). In a spare time, he is a journalist as editor-in-chief of the Polish Astronomy Portal.",
             "czernik": "<span class=\"person\">Tomasz Czernik</span><br />Loves astronomy and photography. The youngest team member.",
@@ -811,7 +812,7 @@
             "skowron": "<span class=\"person\">Tomasz Skowron</span><br />Astronomy amateur and educator. Daily teacher of physics and astronomy in secondary school in Szczecin."
         },
         "retired": {
-            "title": "Retired members of the Galaxy Zoo Team",
+            "title": "已退休的团队成员",
             "andreescu": "<span class=\"person\">Dan Andreescu</span><br />Consultant by day, programmer and seeker of knowledge and fun by night. Avid basketball player and rookie surfer on the weekends.",
             "land": "<span class=\"person\">Kate Land</span><br />Added some much-missed glamour to the world of Theoretical Cosmology. Once could not sleep at night for thoughts about the early Universe, but slept during seminars instead. Now lured away by the bright lights of the City.",
             "vandenberg": "<span class=\"person\">Jan VandenBerg</span><br />Ringleader of the IT support circus in the JHU Physics & Astronomy department.",
