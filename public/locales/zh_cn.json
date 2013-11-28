@@ -614,16 +614,17 @@
         }
     },
     "astronomers": {
-        "heading": "星系動物園對天文學家的意義",
+        "heading": "星系动物园之于天文学家",
         "explanation": {
-            "goals": "這裡介紹的資料，是提供給關心技術層面的天文學者們，以下是一些關於本站在天文科學意義和研究成果方面的整理",
-            "data": "如果你在找的是資料庫的話，請前往星系動物園的資料庫，有 <a　href=\"http://data.galaxyzoo.org\">多種格式</a>可供選擇。",
-            "papers": "或者是您想參考由本計畫團隊成員所發表的論文，請參考<a href=\"/#/papers\">這个</a>連結。"
+            "goals": "这里的资料主要面向对细节性问题感兴趣的读者，介绍这个项目的科学动机和科学背景。",
+            "data": "如果你在找数据，可前往 <a　href=\"http://data.galaxyzoo.org\">此处</a>查询星系动物园的公开数据。",
+            "papers": "如果你想查询本团队所发表的论文，请参考<a href=\"/#/papers\">此处</a>。"
         },
         "morphology": {
-            "heading": "星系形態學為什麼很重要?",
+            "heading": "星系形态学为什么重要？",
             "body": "首先，星系形態學能”示蹤”(tracer)出星系裡的恒星軌道動力，顯示出驅動恒星形成和星系核在它活動過程中所留下的印記，記錄星系演化的星系形態學可以用視覺判辨方式來進行星系間的分門別類，事實上，在星系間的分類和星系間其他的物理參數之間，二者相關性很強，舉个簡單的例子，如果具有多核和延展的潮汐特徵，這可能表示驅動恒星形成的主導機制是一場正在進行中的星系併合。相對之下，如果星系看不到這種特徵，那麼它的演化可能是由內部過程所驅動(secular)。",
-            "reference": "傳統的星系形態變化研究是建立在目測法之上，譬如<a href=\"http://adsabs.harvard.edu/abs/1926ApJ....64..321H\" target=\"_blank\">Hubble 1926</a>這篇知名天文學家哈柏在1926年所發表的論文， <a href=\"http://heasarc.nasa.gov/W3Browse/all/rc3.html\" target=\"_blank\">de Vaucouleurs 1991</a>的論文，更新的還有<a href=\"http://arxiv.org/abs/1001.2401\" target=\"_blank\">Nair and Abraham 2010</a>年的發表，都是使用目測方式取得的研究成果。最近一些形態變化上的proxies，如「密集或疏散」、「對稱與否」、「是否為團塊」、M20、Gini coefficient等，嚴格來說，每个都難免有參與者誤差，不過，針對目測法衍生的誤差，大多已經經過了檢查和校正。並且，一般而言，目測法對於噪訊比和圖像解析力有比較好的容忍度（參考文獻Lisker 2008），所以很適合用來確定星系的形態特徵。無論如何，星系的形態參數都是對大規模分類數據庫很有幫助的，不然，若只透過少數幾个人目測（或僅由一小群天文學者來處理），恐怕真的很曠日廢時，而完成時間則遙遙無期。"
+            "body": "首先，星系形态学可以”示踪”(tracer)出星系中恒星的轨道动力学，同时显示出恒星形成和星系内核活动的蛛丝马迹。星系所呈现的形态类别与别的物理参数有着很强的相关关系。举例来说，多个核心和延展潮汐撕扯的特征暗示着星系并合正主导着星系内部的恒星形成。相反，缺少这些特征则表征着星系演化是由更长期的过程驱动。",
+            "reference": "传统的星系形态学，要么是通过目测星系图片，如<a href=\"http://adsabs.harvard.edu/abs/1926ApJ....64..321H\" target=\"_blank\">Hubble 1926</a>，<a href=\"http://heasarc.nasa.gov/W3Browse/all/rc3.html\" target=\"_blank\">de Vaucouleurs 1991</a>，以及更新的<a href=\"http://arxiv.org/abs/1001.2401\" target=\"_blank\">Nair and Abraham 2010</a>;要么是通过测量形态学参数，比如密集度、不对称性、团块结构、M20、Gini 参数等（<a href="http://arxiv.org/abs/astro-ph/0303065" target="_blank">Conselice 2003</a>， <a href="http://adsabs.harvard.edu/abs/2008ApJ...672..177L" target="_blank">Lotz等2008</a>），严格来说，这些测量量都只是形态的“代理”，或多或少都会带来偏差，需要仔细检查和校准。对于不同的信噪比和图片分辨率，目测法受到的影响相对较小（<a href="http://labs.adsabs.harvard.edu/adsabs/abs/2008ApJS..179..319L">Lisker 2008</a>），理所当然地成为理想的确定星系形态的方法。不过，测量形态参数依然是处理大批量巡天数据的重要方法，否则依靠个人或者一小群天文学家来目测分辨会旷日持久。"
         },
         "classification": {
             "heading": "運用「星系動物園網站計畫」進行大規模巡天計畫資料集分類",
