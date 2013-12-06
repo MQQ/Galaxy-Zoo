@@ -120,13 +120,13 @@
             }
         },
         "sloan-7": {
-            "text": "此星系有多圓?",
-            "title": "圓",
+            "text": "这个星系有多园？",
+            "title": "圆润",
             "help": "",
             "answers": {
-                "a-0": "圓",
-                "a-1": "介於圓與雪茄狀之間",
-                "a-2": "雪茄狀"
+                "a-0": "很园",
+                "a-1": "介于圆润与雪茄状之间",
+                "a-2": "雪茄状"
             }
         },
         "sloan-8": {
@@ -623,7 +623,7 @@
         "morphology": {
             "heading": "星系形态学为什么重要？",
             "body": "首先，星系形态学可以”示踪”(tracer)出星系中恒星的轨道动力学，同时显示出恒星形成和星系内核活动的蛛丝马迹。星系所呈现的形态类别与别的物理参数有着很强的相关关系。举例来说，多个核心和延展潮汐撕扯的特征暗示着星系并合正主导着星系内部的恒星形成。相反，缺少这些特征则表征着星系演化是由更长期的过程驱动。",
-            "reference": "传统的星系形态学，要么是通过目测星系图片，如<a href=\"http://adsabs.harvard.edu/abs/1926ApJ....64..321H\" target=\"_blank\">Hubble 1926</a>，<a href=\"http://heasarc.nasa.gov/W3Browse/all/rc3.html\" target=\"_blank\">de Vaucouleurs 1991</a>，以及更新的<a href=\"http://arxiv.org/abs/1001.2401\" target=\"_blank\">Nair and Abraham 2010</a>;要么是通过测量形态学参数，比如密集度、不对称性、团块结构、M20、Gini 参数等（<a href="http://arxiv.org/abs/astro-ph/0303065" target="_blank">Conselice 2003</a>， <a href="http://adsabs.harvard.edu/abs/2008ApJ...672..177L" target="_blank">Lotz等2008</a>），严格来说，这些测量量都只是形态的“代理”，或多或少都会带来偏差，需要仔细检查和校准。对于不同的信噪比和图片分辨率，目测法受到的影响相对较小（<a href="http://labs.adsabs.harvard.edu/adsabs/abs/2008ApJS..179..319L">Lisker 2008</a>），理所当然地成为理想的确定星系形态的方法。不过，测量形态参数依然是处理大批量巡天数据的重要方法，否则依靠个人或者一小群天文学家来目测分辨会旷日持久。"
+            "reference": "传统的星系形态学，要么是通过目测星系图片，如<a href=\"http://adsabs.harvard.edu/abs/1926ApJ....64..321H\" target=\"_blank\">Hubble 1926</a>，<a href=\"http://heasarc.nasa.gov/W3Browse/all/rc3.html\" target=\"_blank\">de Vaucouleurs 1991</a>，以及更新的<a href=\"http://arxiv.org/abs/1001.2401\" target=\"_blank\">Nair and Abraham 2010</a>;要么是通过测量形态学参数，比如密集度、不对称性、团块结构、M20、Gini 参数等（<a href=\"http://arxiv.org/abs/astro-ph/0303065\" target=\"_blank\">Conselice 2003</a>， <a href=\"http://adsabs.harvard.edu/abs/2008ApJ...672..177L\" target=\"_blank\">Lotz等2008</a>），严格来说，这些测量量都只是形态的“代理”，或多或少都会带来偏差，需要仔细检查和校准。对于不同的信噪比和图片分辨率，目测法受到的影响相对较小（<a href=\"http://labs.adsabs.harvard.edu/adsabs/abs/2008ApJS..179..319L\">Lisker 2008</a>），理所当然地成为理想的确定星系形态的方法。不过，测量形态参数依然是处理大批量巡天数据的重要方法，否则依靠个人或者一小群天文学家来目测分辨会旷日持久。"
         },
         "classification": {
             "heading": "用 星系动物园 为大型巡天数据分类",
@@ -631,15 +631,15 @@
         },
         "highlights": {
             "heading": "星系动物园的科学成果",
-            "body": "星系动物园对许多科学课题做出了贡献，特别是近邻和中红移宇宙。近期的成果包括：最大规模的针对星系并合的研究（<a href=\"http://arxiv.org/abs/0903.4937\">Darg et al. 2010</a>），潮汐矮星系（<a href=\"http://arxiv.org/abs/1108.4410\">Kaviraj et al. 2012</a>），早型星系中的尘埃带（<a href=\"http://arxiv.org/abs/1107.5306\">Kaviraj et al. 2012</a>） 以及近邻宇宙盘状星系中的棒状结构（<a href=\"http://arxiv.org/abs/1003.0449\">Masters et al. 2011</a>，<a href="http://arxiv.org/abs/1205.5271">2012</a>）。相较用程序测量星系形态，星系动物园的特别之处在于，它蕴含着做出奇特发现的可能性（经常由<a href=\"http://www.galaxyzooforum.org\">星系动物园论坛</a>中志愿者主导的一些讨论帮助发现）。其中包括“绿豌豆”(green peas)<a href=\"http://arxiv.org/abs/0907.4155\">Cardamone et al. 2009</a>（green peas位于近邻宇宙，是一族致密的高恒星形成率星系；）及或许是最著名的“汉妮天体”Hanny's Voorwerp（<a href=\"http://arxiv.org/abs/0906.5304\">Lintott et al. 2009</a>，以及<a href=\"http://arxiv.org/abs/1110.6921\">Keel et al. 2012</a>开展的对由活动星系核电离的气体云的调查）。大样本的包含颜色和形态信息的星系数据帮助科学家意识到：与周围环境相关性最大的是颜色而非形态。（<a href="http://arxiv.org/abs/0805.2612">Bamford et al. 2009</a>; <a href="http://arxiv.org/abs/0811.3970">Skibba et al. 2009</a>），这导致了一些有趣的子分类，如红漩涡星系（<a href="http://arxiv.org/abs/0910.4113">Masters et al. 2010</a>）和蓝椭圆形系（<a href="http://arxiv.org/abs/0903.3415">Schawinski et al. 2009</a>）。"
+            "body": "星系动物园对许多科学课题做出了贡献，特别是近邻和中红移宇宙。近期的成果包括：最大规模的针对星系并合的研究（<a href=\"http://arxiv.org/abs/0903.4937\">Darg et al. 2010</a>），潮汐矮星系（<a href=\"http://arxiv.org/abs/1108.4410\">Kaviraj et al. 2012</a>），早型星系中的尘埃带（<a href=\"http://arxiv.org/abs/1107.5306\">Kaviraj et al. 2012</a>） 以及近邻宇宙盘状星系中的棒状结构（<a href=\"http://arxiv.org/abs/1003.0449\">Masters et al. 2011</a>，<a href=\"http://arxiv.org/abs/1205.5271\">2012</a>）。相较用程序测量星系形态，星系动物园的特别之处在于，它蕴含着做出奇特发现的可能性（经常由<a href=\"http://www.galaxyzooforum.org\">星系动物园论坛</a>中志愿者主导的一些讨论帮助发现）。其中包括“绿豌豆”(green peas)<a href=\"http://arxiv.org/abs/0907.4155\">Cardamone et al. 2009</a>（green peas位于近邻宇宙，是一族致密的高恒星形成率星系；）及或许是最著名的“汉妮天体”Hanny's Voorwerp（<a href=\"http://arxiv.org/abs/0906.5304\">Lintott et al. 2009</a>，以及<a href=\"http://arxiv.org/abs/1110.6921\">Keel et al. 2012</a>开展的对由活动星系核电离的气体云的调查）。大样本的包含颜色和形态信息的星系数据帮助科学家意识到：与周围环境相关性最大的是颜色而非形态。（<a href=\"http://arxiv.org/abs/0805.2612\">Bamford et al. 2009</a>; <a href=\"http://arxiv.org/abs/0811.3970\">Skibba et al. 2009</a>），这导致了一些有趣的子分类，如红漩涡星系（<a href=\"http://arxiv.org/abs/0910.4113\">Masters et al. 2010</a>）和蓝椭圆形系（<a href=\"http://arxiv.org/abs/0903.3415\">Schawinski et al. 2009</a>）。"
         },
         "relaunched": {
             "heading": "新版星系动物园",
             "sdss": "本站当前包含来自斯隆数字巡天（SDSS）、哈勃望远镜（HST）和英国红外望远镜（UKIRT）的图像。其中，SDSS的图像来自其第八批公布数据DR8以及南银冠区数据，这批数据将近邻宇宙的星系样本数扩增了40%。哈勃的图像来自最大的哈勃太空望远镜基金项目：CANDELS。CANDELS巡天计划利用了哈勃的广角相机3（WFC3），正是由于WFC3的使用，帮助我们开启了红移大于1的星系的观测窗口，由此使科学家得以研究宇宙年龄为当前年龄一半以前时的星系的详情。在WFC3之前，科学家只能通过像ACS一样的可见光仪器获得红移大于1的星系的静止参考系紫外波段图像；而WFC3在近红外处也很敏感（性能超出NICMOS 20倍），让我们可以获得红移大于1的星系的静止参考系可见光波段的数据。",
             "candels": "CANDELS使用WFC3的近红外滤镜，对GOODS和COSMOS等哈勃早期已观测区域中进行成像，每幅图片拥有800平方角分<sup>2</sup>的视场。由于在形态学分析在静止参考系可见光波段最为成功，WFC3的近红外成像能力尤其重要。静止参考系可见波段能示踪星系中的星族分布，而非仅仅紫外波段可见的恒星形成区。",
             "combination": "星系动物园综合了SDSS一级CANDELS的数据，巨大的样本为科学家提供了极佳的工具，使天文学家可以尝试回答一些依赖形态学分析的重大的开放式问题。比如说，哈勃序列从宇宙的哪个时期开始确立？原初星系球体是如何、何时产生的？对于驱动恒星形成和中心黑洞成长而言，主并合（major merger）和长期演变（secular process）相对而言扮演了什么样的角色？",
-	    "ukidss": "英国红外望远镜提供的图像属于英国红外深空巡天（UKIDSS）中的一部分，即与斯隆数字巡天重叠的4000平方度的大面积巡天（LAS）。我们选取了在星系动物园第二期中被归类的，并在UKIDSS下有高质量成像的共计7万个星系。本站展示的图像是由Y、J和K波段复合得到的假彩色图片（J波段运用了抖色dither技术以增加角分辨率。）。这些图片让我们可以追踪不同波长下的形态，比如说，我们可以研究在静止参考系红外波段，棒状结构的比重是否增加。"
-	    "ferengi": "最后，星系动物园还包括了一小部分斯隆数字巡天中被人为模拟出红移造成的观测效果的星系。这部分数据包含了星系动物园第二期分类的多种多样的星系形态，并用FERENGI程序（<a href="http://www.mpia-hd.mpg.de/FERENGI/">Barden, Jahnke, & Hausler 2008</a>）拟合至红移为1处。由于这些数据可以用来估算分辨率和亮度相关的偏差，而这些性质都与真实的星系演化相互独立，基于这些图像的分类结果将被用于校准星系动物园的数据，包括哈勃和CANDELS的数据。"
+	    "ukidss": "英国红外望远镜提供的图像属于英国红外深空巡天（UKIDSS）中的一部分，即与斯隆数字巡天重叠的4000平方度的大面积巡天（LAS）。我们选取了在星系动物园第二期中被归类的，并在UKIDSS下有高质量成像的共计7万个星系。本站展示的图像是由Y、J和K波段复合得到的假彩色图片（J波段运用了抖色dither技术以增加角分辨率。）。这些图片让我们可以追踪不同波长下的形态，比如说，我们可以研究在静止参考系红外波段，棒状结构的比重是否增加。",
+	    "ferengi": "最后，星系动物园还包括了一小部分斯隆数字巡天中被人为模拟出红移造成的观测效果的星系。这部分数据包含了星系动物园第二期分类的多种多样的星系形态，并用FERENGI程序（<a href=\"http://www.mpia-hd.mpg.de/FERENGI/\">Barden, Jahnke, & Hausler 2008</a>）拟合至红移为1处。由于这些数据可以用来估算分辨率和亮度相关的偏差，而这些性质都与真实的星系演化相互独立，基于这些图像的分类结果将被用于校准星系动物园的数据，包括哈勃和CANDELS的数据。",
             "conclusion": "星系动物园计划的宗旨就是为了回答上述这些问题，并为将来使用如JWST的新仪器的形态学研究工作打下坚实基础。同时，极大望远镜（ELT）和ALMA也可以后续观测通过形态选取的高红移样本。"
         }
     },
@@ -658,70 +658,72 @@
         "examples": "举例"
     },
     "home": {
-        "headline": "星系特搜 見者有分",
-        "call_to_action": "由SDSS(史隆數位巡天計畫)和哈柏望遠鏡(Hubble Space Telescope)所觀測的宇宙雖遠在天邊，卻也近在眼前！一窺宇宙新奇星系特蒐，機會難得。",
+        "headline": "见证罕为人知的奇景",
+        "call_to_action": "斯隆数字巡天（SDSS），哈勃太空望远镜和英国红外望远镜观测的宇宙深处的奇景，任你一窥浩淼苍穹。",
         "galaxy_zoo": {
-            "title": "星系的分類",
-            "description": "我們需要更透徹了解星系形成的過程，所以，邀請你一起來幫忙，把星系按外觀分類。如果你手腳快，在幫忙辨識某个星系時，搞不好你已成為全世界第一个看到那个星系的頭號幸運者！",
-            "classify": "開始分類"
+            "title": "星系分类",
+            "description": "为了更好地理解星系形成的机理，我们需要您来帮助我们根据星系的形状分类。如果你速度够快，你甚至可能有幸成为世界上看到那个被你分类的星系的第一人！",
+            "classify": "开始分类"
         },
         "galaxy_formation": {
-            "title": "星系如何形成",
-            "body": "在可觀測宇宙中大約散佈有一千億个星系，每个光芒閃耀的星系又都自成一个系統，擁有著數十億恒星。許多星系都極其美麗，「星系動物園」的目標就是去研究這些星系，協助天文學者試著去了解我們所看到的這些環繞在我們四周的星系如何形成，從這些星系的故事我們又可以知道自己所置身其中的宇宙過去、現在和未來如何。 <a data-nav=\"#/science\" href=\"#/science\">更多</a>"
+            "title": "星系如何形成？",
+            "body": "在可观测宇宙中散落着大约一千亿个星系，每个璀璨的星系系统中都各自包含数以亿计的恒星。许多星系都美丽惊艳，让人叹为观止，而星系动物园的出发点就是研究它们，协助天文学家理解今时今日看到的星系是如何演化而来，让它们把宇宙的前世今生娓娓道来 <a data-nav=\"#/science\" href=\"#/science\">更多</a>"
         },
         "history": {
-            "title": "星系動物園前傳",
-            "body": "「星系動物園」計畫從2007年7月啟動以來，網站已歷經第四版更新。最早的資料庫裡大約有一百萬个星系圖像，當時由SDSS巡天普查計畫所觀測取得，SDSS迄今仍持續提供更多新的星系光譜圖像資料。剛開始時，面對如此龐大的星系數量，本以為能夠號召到的志工團隊人數可能很有限，應該要花上好幾年時間才能把資料辨識工作全部完成，沒想到網站開張不到24小時就以每小時收到7萬筆辨識結果的速度一路蓬勃成長，第一年為止，一共已獲得五千萬筆辨識結果，募集志工人數達15萬人。<a data-nav=\"#/story\" href=\"#/story\">更多</a>"
+            "title": "星系动物园小传",
+            "body": "星系动物园自2007年7月面世以来，网站已经历经4次改版，并度过了六载春秋。最初的数据由斯隆数字巡天得到的百万张星系图片构成，时至今日，斯隆依然为星系动物园提供新的数据。建站之初，我们预测这个项目可能要花上数年时间才能完成，然而网站上线24小时后，每小时7万次的分类速度把我们震惊了。在第一年，超过15万的志愿者参与其中，共计贡献了超过五千万次分类<a data-nav=\"#/story\" href=\"#/story\">更多</a>"
         },
         "classroom": {
-            "title": "課堂上利用「星系動物園」",
-            "body": "如果您是老師或是科學教育人員，有意向學生們進一步介紹「星系動物園」，我們在 <a href=\"http://www.galaxyzoo.org/#/navigator/home\">導航中心</a> 這裡，提供同學們一个以小組團隊的方式參加互動的管道，既參與到星系的分類與辨識，又可熟悉學習各種和星系特性有關的知識。<a href=\"http://www.zooteach.org/zoo/galaxy_zoo\">星系動物園教學補給站</a>是老師們可以分享教學心得和資源的地方，並且也和「Zooniverse」裡其他的全民動手做科學網站相互呼應。",
-            "navigator": "導航中心"
+            "title": "星系动物园进课堂",
+            "body": "如果您是一名教师，并且有意向学生介绍星系动物园，这个 <a href=\"http://www.galaxyzoo.org/#/navigator/home\">导航中心</a> 可以为一组成员提供互动的星系分类工具，同学们可以团队合作，一起研究星系的特征。<a href=\"http://www.zooteach.org/zoo/galaxy_zoo\">星系动物园教学园地</a>中，老师们可以共享课程和资源，并且与Zooniverse的其他全民科学项目的参与者互通有无。",
+            "navigator": "导航中心"
         },
         "recent_images": {
-            "title": "最近圖像"
+            "title": "最近图像"
         }
     },
     "login_prompt": {
-        "title": "登入，或開新帳號，以感謝您所作的貢獻",
-        "decline": "不用，謝謝"
+        "title": "登陆或创建新账户以获取积分。一份耕耘一份收获",
+        "decline": "不，谢谢"
     },
     "navigation": {
-        "classify": "分類",
-        "science": "科學知識",
-        "blog": "交流站",
-        "team": "團隊",
-        "papers": "論文",
-        "data": "資料",
-        "story": "我們的故事",
-        "galaxy_zoo": "星系動物園",
-        "astronomers": "天文學家專區",
-        "discuss": "討論",
+        "classify": "分类",
+        "science": "科学",
+        "blog": "博客",
+        "team": "团队",
+        "papers": "论文",
+        "data": "数据",
+        "story": "故事",
+        "galaxy_zoo": "星系动物园",
+        "astronomers": "天文学家",
+        "discuss": "讨论",
         "talk": "Talk",
-        "forum": "論壇",
-        "profile": "你的分類記錄"
+        "forum": "论坛",
+        "profile": "用户信息"
     },
     "papers": {
-        "title": "已發表論文",
-        "description": "在「星系動物園」社群成員集體貢獻下，本計畫取得了豐碩的資料集，可做科學研究使用。因星系動物園提供星系分類資料而進一步取得的研究成果中，有些已通過學術期刊審查，正式發表為論文，以下列出部分。",
-        "available": "此處..."
+        "title": "已发表论文",
+        "description": "在星系动物园的志愿者的共同努力下，本项目产生了丰硕的数据结果，可供科研之用。星系动物园的分类数据已经产出了许多论文，以下仅列出部分。",
+        "available": "点击此处一览论文"
     },
     "profile": {
-        "favorites": "我最愛的圖像",
-        "recents": "最新",
-        "remove_favorite": "移除我的最愛",
-        "favorite_this": "新增為我的最愛",
-        "classifications": "分類",
-        "hubble": "哈柏",
-        "hubble_classifications": "哈柏資料庫分類",
-        "sdss": "SDSS",
-        "sdss_classifications": "SDSS資料庫分類",
-        "quiz": "星系小學堂問答",
-        "quizzes": "星系小學堂問答",
-        "quizzes_taken": "已做過的星系小學堂問答題",
-        "take_a_quiz": "現在就做幾題星系小學堂問答",
-        "galaxy_zoo_hubble": "星系動物園：哈柏",
-        "galaxy_zoo_hubble_link": " 如果你要找自己之前在星系動物園哈柏館的資料集，可前往此處找"
+        "favorites": "我的最爱",
+        "recents": "最新动态",
+        "remove_favorite": "从最爱中移除",
+        "favorite_this": "添加到最爱",
+        "classifications": "分类",
+        "hubble": "哈勃",
+        "hubble_classifications": "哈勃数据分类",
+        "sdss": "斯隆数字巡天（SDSS）",
+        "sdss_classifications": "SDSS数据分类",
+        "ukidss": "英国红外数字巡天（ukidss）",
+        "ukidss_classifications": "ukidss数据分类",
+        "quiz": "星系知识小测验",
+        "quizzes": "星系知识小测验",
+        "quizzes_taken": "已做过的星系知识小测验",
+        "take_a_quiz": "开始星系知识小测验",
+        "galaxy_zoo_hubble": "星系动物园：哈勃",
+        "galaxy_zoo_hubble_link": " 如果你要找自己之前在星系动物园哈勃馆分类的星系，可以<a href=\"http://hubble.galaxyzoo.org/my_galaxies\" target=\"_blank\">前往此处</a>"
     },
     "science": {
         "title": "星系动物园网站的科学意义",
@@ -826,143 +828,165 @@
         }
     },
     "examine": {
-        "title": "查驗",
-        "survey": "調查",
-        "right_ascension": "右上升",
-        "declination": "下降",
+        "title": "查验",
+        "survey": "调查",
+        "right_ascension": "赤经",
+        "declination": "赤纬",
         "magnitude": "星等",
-        "ned_link": "搜尋 NED",
-        "discuss": "和他人討論",
-        "hubble": "哈柏",
+        "ned_link": "搜索NED",
+        "discuss": "讨论该天体",
+        "hubble": "哈勃",
         "sdss": "SDSS",
-        "sdss_id": "SDSS天體",
-        "petro_rad": "Petrosian半徑",
-        "skyserver_link": "從SkyServer上檢視"
+        "ukidss": "UKIDSS",
+        "ferengi": "人工红移后的SDSS天体",
+        "sdss_id": "SDSS天体编号",
+        "petro_rad": "Petrosian半径",
+        "skyserver_link": "在SkyServer上浏览"
     },
     "fits": {
-        "view": "以不同波常看原始資料",
-        "x_y": "X, Y 資料",
-        "intensity": "稠密度",
-        "color": "顏色",
-        "linear": "線性",
-        "logarithm": "對數",
-        "square_root": "開平方根",
-        "arcsinh": "反正弦",
-        "power": "Power"
+        "view": "从不同波段查阅原始数据",
+        "x_y": "X, Y ",
+        "intensity": "光强",
+        "color": "颜色",
+        "linear": "线性",
+        "logarithm": "对数",
+        "square_root": "开平方根",
+        "arcsinh": "反双曲正弦",
+        "power": "幂率"
     },
     "quiz": {
-        "thanks": "多謝!",
-        "help": "請支持星系動物園！",
-        "research": "我們想多了解星系動物園志工對宇宙的認識如何",
-        "helping": "你的作答能幫我們了解參加星系動物園的志工對宇宙的認識",
-        "gift": "您將有機會參加抽獎，<strong>獎品是價值20元美金的Amazon禮品兌換券</strong>.",
-        "reward": "這是禮物，每回答一組題目，<strong>就可以參加一次20 元美金的Amazon禮品兌換券</strong>",
-        "now_or_later": "現在你可以再繼續回答另一組題目,或者是晚一點再回到你的profile區來作答",
-        "start_next": "願意做下一輪題目大概是什麼時候?",
-        "reminder": "先前答應每週回答一組5&ndash6个題目",
-        "ready": "現在可以作答嗎?",
-        "now": "現在可以",
-        "later": "稍後",
-        "complete": "全部題目都做完了!",
-        "okay": "好的，了解",
-        "participate": "願意想參加嗎？",
+        "thanks": "多谢!",
+        "help": "星系动物园，有你更精彩！",
+        "research": "我们想深入调研星系动物园的志愿者对宇宙的理解。",
+        "helping": "您的回答可以帮我们理解志愿者们对宇宙的认识。",
+        "gift": "您将有机会参与抽奖，<strong>奖品是价值20元美元的卓越亚马逊代金券</strong>。",
+        "reward": "作为回报，您每次答完一组问题，都可以参与抽取<strong>20美元的卓越亚马逊代金券</strong>。",
+        "now_or_later": "您可以继续答题，或者稍后回来，通过点击用户信息继续答题。",
+        "start_next": "您计划何时继续下次答题？",
+        "reminder": "您之前同意每周回答5&ndash;6个題目",
+        "ready": "准备好了吗？",
+        "now": "现在开始",
+        "later": "稍后再说",
+        "complete": "您完成了所有问题！",
+        "okay": "好的",
+        "participate": "您愿意参加么？",
         "yes": "是!",
-        "no_thanks": "謝謝，不要",
-        "ask_later": "考慮中，稍後再詢問我",
-        "never_again": "以後別再問我",
+        "no_thanks": "谢谢，不要",
+        "ask_later": "下次再说",
+        "never_again": "不要再问我",
         "example": {
             "prompt": "願意的話你將會收到內含六个題目的問卷，答題時間自由，第一組題目在您同意參加後馬上開始作答。<br />第一个問題可能會是：",
-            "question": "Hubble's observation that galaxies farther away from us are moving faster led to which conclusion?",
-            "answer_a": "宇宙正在膨脹",
-            "answer_b": "宇宙正在收縮",
-            "answer_c": "我們位於宇宙中心",
-            "answer_d": "我們的星系把其他星系後推"
+            "prompt": "如果您同意协助我们，您将收到一组包含六个问题的调查，不限答题时间。第一组将在您同意参加后立即显示。<br />这些问题形式上和以下例子类似：",
+            "question": "根据哈勃对星系的观测，离我们越远的星系运动地越快。基于这一事实，我们可以得出以下哪个结论？",
+            "answer_a": "宇宙在膨胀",
+            "answer_b": "宇宙在收缩",
+            "answer_c": "我们处于宇宙中心",
+            "answer_d": "我们的星系排斥别的星系"
         }
     },
     "navigator": {
-        "title": "導航中心",
-        "construct": "構思你的問題",
+	"affirmative": "是",
+	"negative": "否",
+	"title": "导航中心",
+        "construct": "构思您的问题",
         "my_galaxies": "我的星系",
-        "graph": "圖檔資料",
-        "loading": "上傳中...",
-        "reset": "重設圖檔",
-        "snapshot": "截圖",
-        "download": "下載資料",
-        "n_galaxies": "星系數量",
-        "smooth": "平整勻稱",
-        "feature": "外觀具有特徵或盤狀",
-        "star": "恒星或人造飛行器",
-        "redshift": "紅移",
-        "color": "顏色",
-        "apparent_brightness": "視亮度",
-        "absolute_radius": "絕對直徑",
-        "absolute_brightness": "絕對亮度",
-        "no_results": "請先分類星系",
-        "intro": "Welcome to the Galaxy Zoo Navigator, where you can investigate the galaxy classifications you have made as part of a group. To get started you will need to select the group you'd like to work with.",
-        "credit": "The Navigator is based upon work supported by the National Science Foundation under Grants No. 1041419 and 0941610. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.",
+        "graph": "图像数据",
+        "loading": "上传中...",
+        "reset": "重新设置图像",
+        "snapshot": "截图",
+        "download": "下载数据",
+        "n_galaxies": "星系数量",
+        "smooth": "平滑程度",
+        "feature": "特征或盘",
+        "star": "恒星或人造物体",
+        "redshift": "红移",
+        "color": "颜色",
+        "apparent_brightness": "视亮度",
+        "absolute_radius": "绝对半径",
+        "absolute_brightness": "绝对亮度",
+        "no_results": "请先对星系分类",
+        "intro": "欢迎来到星系动物园导航中心，在这里你可以作为小组成员研究你分类过的星系。选择你所喜欢的类别以开始。",
+        "credit": "导航中心基于由美国国家科学基金资助项目1041419和0941610的研究结果。材料中表达的任何观点，发现和结论或推荐都是作者得出的，并不一定代表美国国家科学基金的立场。",
         "groups": {
-            "select": "選擇小組",
-            "make": "開新小組",
-            "create": "開新小組",
-            "classify": "星系分類",
-            "group_classify": "小組分類模式",
-            "stop_classify": "停止小組分類模式",
-            "leave": "離開小組",
-            "destroy": "刪除小組",
-            "classify_desc": "以某小組成員身分造訪星系動物園網站",
-            "stats": "Statistics",
-            "invitations": "邀請成員",
-            "enter_name": "輸入小組名稱",
+	    "download": "下载统计数据",
+	    "rejected": "该邮箱地址没有与Zooniverse关联的账户：",
+	    "signup":"创建新的小组",
+            "select": "选择小组",
+            "make": "开一个新小组",
+            "create": "创建新的小組",
+            "classify": "星系分类",
+            "group_classify": "在小组中分类",
+            "stop_classify": "停止在小组中分类",
+            "leave": "离开小组",
+            "destroy": "删除小组",
+            "classify_desc": "以小组成员身份浏览星系动物园网站，并对星系分类",
+            "stats": "小组信息",
+            "invitations": "邀请",
+            "enter_name": "输入小组名称",
             "enter_emails": "邀請現已有宇宙大觀園帳號者輸入其email資料，名字間以逗號隔開（譬如 ed@example.com, cs@example.com, whyte@example.com)",
-            "send_invites": "送出邀請",
-            "disable_talk": "取消小組Talk設定",
-            "invited_users": "使用者邀請發出",
-            "participation": "參與",
-            "compare": "將你所完成的分類和其他志工的分類加以比較",
-            "confirm_leave": "確定嗎?\n你必須重新獲得小組長發布的邀請才能再回到小組中",
-            "confirm_destroy": "確定嗎?\n這个動作將無法復原或取消",
-            "ensure_selected": "看小組完成的分類成果之前，請選擇一个小組，或從下拉式選單中選擇小組"
+            "enter_emails": "通过电子邮件邀请已有zooniverse账号的用户，邮件地址用逗号隔开，（如 ed@example.com, cs@example.com, whyte@example.com）",
+            "send_invites": "发出邀请",
+            "disable_talk": "对小组关闭Talk功能",
+            "invited_users": "已邀请用户",
+            "participation": "参与",
+            "compare": "将你的分类结果和其他志愿者结果相比较",
+            "confirm_leave": "确定么？\n若你想回到改小组，小组组长必须再次邀请你。",
+            "confirm_destroy": "确定么？\n该操作无法恢复",
+            "ensure_selected": "从下拉菜单中选择或创建小组，以确定小组分类。",
+            "group_url": "分享此链接，让所有人都能加入该小组：",
+            "elementary": "小学",
+            "middle": "初中",
+            "secondary": "高中",
+            "college": "大学",
+            "other": "其他",
+            "elaborate": "请详尽阐述",
+            "classroom": "您是否计划在教室设定中使用导航中心？",
+            "classroom_followup": "您的学生处于什么年龄？",
+            "classroom_followup_open": "您打算如何在您的教学中使用导航中心？",
+            "no_classroom": "您打算如何使用导航工具？",
+            "alone": "作为个人使用",
+            "group": "作为团队使用"
         },
         "sample": {
-            "label": "樣本大小為...",
-            "choose": "選取樣本大小",
-            "small": "星系小樣本",
-            "random_small": "隨機選取的星系小樣本",
-            "medium": "星系中樣本",
-            "random_medium": "隨機選取的星系中樣本",
-            "large": "大樣本",
-            "random_large": "隨機選取的星系大樣本"
+            "label": "样本大小为...",
+            "choose": "选取样本大小",
+            "small": "小样本星系",
+            "random_small": "随机选取小样本的星系",
+            "medium": "中样本星系",
+            "random_medium": "随机选取中样本的星系",
+            "large": "大样本星系",
+            "random_large": "随机选取大样本的星系"
         },
         "galaxy_type": {
-            "label": "選以下類型的星系",
-            "smooth": "平整勻稱",
-            "feature": "外觀具有特徵或盤狀"
+            "label": "在下列星系类型中...",
+            "smooth": "平滑",
+            "feature": "有特征/盘"
         },
         "source": {
-            "label": "想要使用的資料是",
-            "my_group": "我的小組",
-            "galaxy_zoo": "星系動物園",
-            "my_choice": "我選"
+            "label": "我想使用的数据来自...",
+            "my_group": "我的小组",
+            "galaxy_zoo": "星系动物园",
+            "my_choice": "我的选择"
         },
         "histogram": {
-            "title": "直方圖",
-            "description": "調查不同型態星系的特性",
+            "title": "直方图",
+            "description": "调查不同种类星系的特性",
             "label": "'我想看...'",
-            "y_label": "星系數量",
+            "y_label": "星系的数量",
             "distribution": "分布",
-            "distributed": "分布於...",
-            "one_var": "單一變數",
-            "two_var": "兩个變數",
-            "create": "新增圖表"
+            "distributed": "分布于...",
+            "one_var": "一个变量",
+            "two_var": "两个变量",
+            "create": "创建图表"
         },
         "scatterplot": {
-            "title": "點狀圖",
-            "description": "比較不同型態星系的特性",
+            "title": "点状图",
+            "description": "比较不同种类星系的特性",
             "label": "我想看...",
             "vs": "vs.",
-            "relation": "和...的關聯",
-            "choose_x": "選擇X軸變數",
-            "choose_y": "選擇Y軸變數"
+            "relation": "和...的关系",
+            "choose_x": "选择X轴变量",
+            "choose_y": "选择Y轴变量"
         }
     }
 }
