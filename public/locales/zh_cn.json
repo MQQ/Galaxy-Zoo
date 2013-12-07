@@ -120,7 +120,7 @@
             }
         },
         "sloan-7": {
-            "text": "这个星系有多园？",
+            "text": "这个星系有多圆？",
             "title": "圆润",
             "help": "",
             "answers": {
@@ -353,7 +353,7 @@
     "quiz_questions": {
         "set_1": {
             "question_0": {
-                "text": "椭圆形系在哪里更常见？",
+                "text": "椭圆星系在哪里更常见？",
                 "answer_0": "在星系团中",
                 "answer_1": "在星系团外",
                 "answer_2": "哪里都一样"
