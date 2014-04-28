@@ -35,11 +35,11 @@
             "progress": "退出中..."
         },
         "top_bar": {
-            "title": "<span id=\"app-name\"></span> 属于 <a href=\"https://www.zooniverse.org\">星系动物园</a> 项目。",
-            "description": "「Zooniverse」是一系列在线大众科学项目的集合。我们汇聚志愿者的努力与智慧，帮助科学家处理海量数据。",
+            "title": "<span id=\"app-name\"></span> 是 <a href=\"https://www.zooniverse.org\">Zooniverse</a> 项目之一。",
+            "description": "Zooniverse是一系列在线大众科学项目的集合。我们汇聚志愿者的努力与智慧，帮助科学家处理海量数据。",
             "greeting": "你好， <strong>{user}</strong>。 欢迎来到{appName}！",
             "projects": {
-                "title": "我们的项目",
+                "title": "项目概览",
                 "list": "目前，我们运行着12个项目，上知<a href=\"https://www.zooniverse.org/#space\">天文</a>、<a href=\"https://www.zooniverse.org/#climate\">气候</a>，下知 <a href=\"https://www.zooniverse.org/#nature\">生物</a>、<a href=\"https://www.zooniverse.org/#humanities\">人类学</a>。"
             }
         }
